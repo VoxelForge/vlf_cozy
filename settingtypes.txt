@@ -1,0 +1,3 @@
+# If enabled, messages like "* player stands up" (in style of /me) will be sent
+# each time a player sits, lays or stands up
+vlf_cozy_print_actions (Print actions) bool false
