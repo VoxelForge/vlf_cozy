@@ -1,0 +1,8 @@
+# textdomain: vlf_cozy
+Sit down=S'assoir
+Lay down=Se coucher
+Move to stand up=Se déplacer pour se lever
+This spot is already occupied!=Cette place est déjà occupée !
+ sits= s'assoit
+ lies= se couche
+ stands up= se lève

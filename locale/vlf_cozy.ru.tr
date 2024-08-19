@@ -1,0 +1,8 @@
+# textdomain: vlf_cozy
+Sit down=Сесть
+Lay down=Лечь
+Move to stand up=Двиньтесь чтобы встать
+This spot is already occupied!=Это место уже занято!
+ sits= сел(а)
+ lies= лег(ла)
+ stands up= встал(а)
