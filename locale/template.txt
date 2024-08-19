@@ -1,0 +1,8 @@
+# textdomain: vlf_cozy
+Sit down=
+Lay down=
+Move to stand up=
+This spot is already occupied!=
+ sits=
+ lies=
+ stands up=
