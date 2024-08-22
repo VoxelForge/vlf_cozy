@@ -1,6 +1,9 @@
-# VoxeLibre /sit and /lay
-[![ContentDB](https://content.minetest.net/packages/VoxelForge/vlf_cozy/shields/downloads/)](https://content.minetest.net/packages/VoxelForge/vlf_cozy/)
+# VoxelForge Cozy
 
-A greatly simplified and rewritten version of (https://content.minetest.net/packages/rudzik8/mcl_cozy/) using only 56 lines of code.
+### What is VoxelForge Cozy ?
 
-![Screenshot](screenshot.png)
+It is a port of (https://content.minetest.net/packages/rudzik8/mcl_cozy/). To Voxelforge
+
+#### What does it do ?
+
+It adds two commands. /sit and /lay allowing you to sit or lay down
