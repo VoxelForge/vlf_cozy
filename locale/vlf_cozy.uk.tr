@@ -1,0 +1,13 @@
+# textdomain: vlf_cozy
+# Translated by FromKaniv
+
+Voxelforge /sit and lay commands=Команди /sit та /lay для Voxelforge
+Sit and lay using chat commands=Сісти та лягти за допомогою команд у чаті
+
+Sit down=Сісти
+Lay down=Лягти
+Move to stand up=Рухніться, щоб встати
+This spot is already occupied!=Це місце вже зайняте!
+ sits= сів(ла)
+ lies= ліг(ла)
+ stands up= встав(ла)
